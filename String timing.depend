@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1598097601 source:d:\codeblocks projects\string timing\main.cpp
+	<iostream>
+	<windows.h>
+	<string.h>
+	<math.h>
+
